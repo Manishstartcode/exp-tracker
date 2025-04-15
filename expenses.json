@@ -1,0 +1,14 @@
+[
+  {
+    "amount":200.0,
+    "category":"food",
+    "description":"momo",
+    "date":1744761600000
+  },
+  {
+    "amount":400.0,
+    "category":"beer",
+    "description":"liqour",
+    "date":"2025-04-16"
+  }
+]
